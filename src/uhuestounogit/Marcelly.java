@@ -9,5 +9,5 @@ package uhuestounogit;
  * @author a12029843
  */
 public class Marcelly {
-    
+    private String filipe;
 }
